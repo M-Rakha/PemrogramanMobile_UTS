@@ -17,6 +17,8 @@
 
 # MOCKUP
 
+![gambar](https://github.com/M-Rakha/PemrogramanMobile_UTS/blob/main/Mockup.png?raw=true)
+
 
 
 
