@@ -19,10 +19,6 @@
 
 ![gambar](https://github.com/M-Rakha/PemrogramanMobile_UTS/blob/main/Mockup.png?raw=true)
 
-# UX Project
-
-![link](https://youtu.be/Q8wF7Qt6Xx4?si=t3ToZXb7QjpqMPQD)
-
 
 
 
